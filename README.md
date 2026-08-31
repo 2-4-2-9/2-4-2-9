@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @2-4-2-9
+- 👋 Hi, I’m @abdulwasiu
 - 👀 I’m interested in Web development 
 - 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on Github 
